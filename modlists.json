@@ -1,0 +1,43 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Jungle Warfare",
+    "description": "The Commonwealth is overgrown. Everything is diffrent, your enemy now is smart, and relentless.  Dangers around every corner.",
+    "author": "Reaper",
+    "maintainers": [
+      "github/kjecobra"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Beta",
+      "Jungle",
+      "Gunner Overhaul",
+      "Raider Overhaul",
+      "Mutant Overhaul",
+      "Institue Overhaul",
+      "Minuteman Overhaul",
+      "Sim Settlements 3"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://imgur.com/UY33wuS",
+      "readme": "https://github.com/kjecobra/Jungle-Warfare/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Jungle%20Warfare%20v4.wabbajack_e2b8827a-10eb-40f1-aa84-19727e9919b3",
+      "machineURL": "JungleWarfare",
+      "discordURL": "https://discord.gg/4JnNeZyE"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 1130,
+      "SizeOfArchives": 338514681825,
+      "NumberOfInstalledFiles": 247555,
+      "SizeOfInstalledFiles": 473354261029
+    },
+    "version": "4.0"
+  }
+]
