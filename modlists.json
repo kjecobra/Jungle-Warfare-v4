@@ -15,8 +15,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/kjecobra/Jungle-Warfare/blob/main/Fallout%204%20Screenshot%202024.05.06%20-%2019.19.04.77.png?raw=true",
-      "readme": "https://github.com/kjecobra/Jungle-Warfare/blob/main/README.md",
+      "image": "https://github.com/kjecobra/Jungle-Warfare-v4/blob/main/Fallout%204%20Screenshot%202024.05.06%20-%2019.19.04.77.png",
+      "readme": "https://github.com/kjecobra/Jungle-Warfare-v4/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Jungle%20Warfare%20v4.wabbajack_b19d00f6-ed92-435b-8bd4-a05a39be8286",
       "machineURL": "JungleWarfare",
       "discordURL": "https://discord.gg/4JnNeZyE"
