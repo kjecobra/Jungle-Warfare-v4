@@ -9,23 +9,15 @@
     ],
     "game": "fallout4",
     "tags": [
-      "Beta",
-      "Jungle",
-      "Gunner Overhaul",
-      "Raider Overhaul",
-      "Mutant Overhaul",
-      "Institue Overhaul",
-      "Minuteman Overhaul",
-      "Sim Settlements 3"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://imgur.com/UY33wuS",
+      "image": "https://github.com/kjecobra/Jungle-Warfare/blob/main/Fallout%204%20Screenshot%202024.05.06%20-%2019.19.04.77.png?raw=true",
       "readme": "https://github.com/kjecobra/Jungle-Warfare/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Jungle%20Warfare%20v4.wabbajack_e2b8827a-10eb-40f1-aa84-19727e9919b3",
+      "download": "https://authored-files.wabbajack.org/Jungle%20Warfare%20v4.wabbajack_b19d00f6-ed92-435b-8bd4-a05a39be8286",
       "machineURL": "JungleWarfare",
       "discordURL": "https://discord.gg/4JnNeZyE"
     },
@@ -33,10 +25,10 @@
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
       "Size": 0,
-      "NumberOfArchives": 1130,
-      "SizeOfArchives": 338514681825,
-      "NumberOfInstalledFiles": 247555,
-      "SizeOfInstalledFiles": 473354261029
+      "NumberOfArchives": 1153,
+      "SizeOfArchives": 341243309439,
+      "NumberOfInstalledFiles": 249063,
+      "SizeOfInstalledFiles": 476919207189
     },
     "version": "4.0"
   }
