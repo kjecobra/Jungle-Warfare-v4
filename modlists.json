@@ -17,18 +17,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://github.com/kjecobra/Jungle-Warfare-v4/blob/main/Fallout%204%20Screenshot%202024.05.06%20-%2019.19.04.77.png",
       "readme": "https://github.com/kjecobra/Jungle-Warfare-v4/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Jungle%20Warfare%20v4.wabbajack_b19d00f6-ed92-435b-8bd4-a05a39be8286",
+      "download": "      "download": "https://authored-files.wabbajack.org/Jungle%20Warfare%20v4.wabbajack_b19d00f6-ed92-435b-8bd4-a05a39be8286",",
       "machineURL": "JungleWarfare",
       "discordURL": "https://discord.gg/4JnNeZyE"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 1153,
-      "SizeOfArchives": 341243309439,
-      "NumberOfInstalledFiles": 249063,
-      "SizeOfInstalledFiles": 476919207189
+      "Size": 597287785,
+      "NumberOfArchives": 1190,
+      "SizeOfArchives": 331044986079,
+      "NumberOfInstalledFiles": 252521,
+      "SizeOfInstalledFiles": 481147699942
     },
     "version": "4.0"
   }
